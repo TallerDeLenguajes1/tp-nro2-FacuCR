@@ -1,0 +1,3 @@
+No se puede ver el archivo por que esta ubicado en la rama de Opcion_2
+
+Cuando utilizo merge y veo en gitk --all aparecen las dos ramas unidas
